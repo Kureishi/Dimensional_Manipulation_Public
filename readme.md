@@ -1,4 +1,4 @@
-### To Run Script
+### To Run Demonstration
 1. Activate virtual environment and run pip install -r requirements.txt
 2. Run pca_demo.py
 
